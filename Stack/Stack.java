@@ -99,7 +99,7 @@ public class Stack
             System.out.println("	PRESS 3 FOR PEEK ");
             System.out.println("	PRESS 4 FOR CHECK EMPTY	");
             System.out.println("	PRESS 5 PRINT STACK ELEMENTS");
-            System.out.println("    PRESS 6 TO GET SIZE OF STACK");
+            System.out.println("        PRESS 6 TO GET SIZE OF STACK");
             System.out.println("	PRESS 7 TO DELETE STACK AND EXIT");
             System.out.println("__________________________________________");
             int ch=sc.nextInt();
