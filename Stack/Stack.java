@@ -96,7 +96,7 @@ public class Stack
             System.out.println("ENTER YOUR CHOICE FOR STACK OPERATIONS");
             System.out.println("	PRESS 1 FOR PUSH	");
             System.out.println("	PRESS 2 FOR POP	");
-            System.out.println("	PRESS 3 FOR PEEK");
+            System.out.println("	PRESS 3 FOR PEEK ");
             System.out.println("	PRESS 4 FOR CHECK EMPTY	");
             System.out.println("	PRESS 5 PRINT STACK ELEMENTS");
             System.out.println("    PRESS 6 TO GET SIZE OF STACK");
