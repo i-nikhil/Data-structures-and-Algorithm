@@ -4,10 +4,10 @@ import java.util.*;
 class DoubleCircularLinkedList
 {
     //head reference
-    Node head;
+    private Node head;
 
     //tail reference
-    Node tail;
+    private Node tail;
 
     class Node
     {
