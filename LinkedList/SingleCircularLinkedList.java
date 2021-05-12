@@ -17,10 +17,10 @@ public class SingleCircularLinkedList
     }
 
     //head reference
-    Node head;
+    private Node head;
 
     //tail reference
-    Node tail;
+    private Node tail;
 
     //insertion at front
     public void insertFront(int data)
