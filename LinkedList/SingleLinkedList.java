@@ -18,7 +18,7 @@ public class SingleLinkedList
     }
 
     //head reference
-    Node head;
+    private Node head;
 
     //insertion at front
     public void insertFront(int data)
