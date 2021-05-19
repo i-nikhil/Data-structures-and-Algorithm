@@ -67,11 +67,6 @@ public class BinaryTree
                 q.add(temp.left);
             if(temp.right!=null)
                 q.add(temp.right);
-            /*correction was at this point
-              in place of q.add(temp.right)
-              q.add(temp.left), was adding
-              root.left and root.right, now
-              its working fine :)*/
         }
     }
 
