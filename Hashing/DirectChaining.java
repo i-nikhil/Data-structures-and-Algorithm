@@ -112,6 +112,5 @@ public class DirectChaining
                 default:System.out.println("Wrong Choice:");
             }
         }
-
     }
 }
