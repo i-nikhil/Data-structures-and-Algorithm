@@ -28,7 +28,7 @@ public class QuickSort
                 arr[j]=temp;
             }
         }
-        return pivot;
+        return i;//since i is the updated pivot after all swaps
     }
 
     public static void main(String[] args)
